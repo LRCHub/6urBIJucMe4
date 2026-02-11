@@ -1,0 +1,312 @@
+{
+  "version": 1,
+  "base_track": "LIFE STYLE",
+  "base_artist": "SALU",
+  "createdAt": "2026-02-11T12:16:06.665382Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Night Life Style",
+      "artist": "Joan Of Arc",
+      "has_synced": false,
+      "path": "select/01_Night_Life_Style_Joan_Of_Arc.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Ace Hood feat. Sean Kingston",
+      "has_synced": true,
+      "path": "select/02_Life_Style_Ace_Hood_feat._Sean_Kingston.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Life Style (feat. Sean Kingston)",
+      "artist": "Ace Hood",
+      "has_synced": true,
+      "path": "select/03_Life_Style_(feat._Sean_Kingston)_Ace_Hood.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Sidhu Moose Wala feat. Banka",
+      "has_synced": true,
+      "path": "select/04_Life_Style_Sidhu_Moose_Wala_feat._Banka.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/05_Life_Style_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Life Style (feat. Banka)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/06_Life_Style_(feat._Banka)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Night Skinny",
+      "has_synced": true,
+      "path": "select/07_Life_Style_Night_Skinny.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unusual Life Style (Uls)",
+      "artist": "Snazzygrin",
+      "has_synced": true,
+      "path": "select/08_Unusual_Life_Style_(Uls)_Snazzygrin.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Sidhu Moose Wala (DjPunjab.CoM)",
+      "has_synced": true,
+      "path": "select/09_Life_Style_Sidhu_Moose_Wala_(DjPunjab.CoM).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Sidhu Moose Wala, Banka",
+      "has_synced": true,
+      "path": "select/10_Life_Style_Sidhu_Moose_Wala,_Banka.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Life Style (feat. Vale Lambo, Lele Blade, CoCo & Geolier)",
+      "artist": "Night Skinny",
+      "has_synced": true,
+      "path": "select/11_Life_Style_(feat._Vale_Lambo,_Lele_Blade,_CoCo_&_Geolier)_Night_Skinny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Harry Nach",
+      "has_synced": true,
+      "path": "select/12_Life_Style_Harry_Nach.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Shota Shimizu",
+      "has_synced": true,
+      "path": "select/13_Life_Style_Shota_Shimizu.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Oldilla",
+      "has_synced": true,
+      "path": "select/14_Life_Style_Oldilla.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Life Style (feat. Banka) (feat. Banka)",
+      "artist": "Sidhu Moose Wala",
+      "has_synced": true,
+      "path": "select/15_Life_Style_(feat._Banka)_(feat._Banka)_Sidhu_Moose_Wala.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Life Style [Explicit]",
+      "artist": "Harry Nach, Poison Kid & Killua97",
+      "has_synced": true,
+      "path": "select/16_Life_Style_[Explicit]_Harry_Nach,_Poison_Kid_&_Killua97.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Life Style",
+      "artist": "Rohff",
+      "has_synced": true,
+      "path": "select/17_Life_Style_Rohff.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Life Style That Got Away",
+      "artist": "The High Strung",
+      "has_synced": true,
+      "path": "select/18_The_Life_Style_That_Got_Away_The_High_Strung.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Life Style (feat. Vale Lambo, Lele Blade, CoCo & Geolier)",
+      "artist": "Night Skinny, Vale Lambo, Lele Blade, CoCo, Geolier",
+      "has_synced": true,
+      "path": "select/19_Life_Style_(feat._Vale_Lambo,_Lele_Blade,_CoCo_&_Geolier)_Night_Skinny,_Vale_Lambo,_Lele_Blade,_CoCo,_Geolier.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/20_Good_Life_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Life is a Highway",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/21_Life_is_a_Highway_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Lush Life",
+      "artist": "Zara Larsson",
+      "has_synced": true,
+      "path": "select/22_Lush_Life_Zara_Larsson.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Walk Of Life",
+      "artist": "Dire Straits",
+      "has_synced": true,
+      "path": "select/23_Walk_Of_Life_Dire_Straits.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Y'all Life",
+      "artist": "Walker Hayes",
+      "has_synced": true,
+      "path": "select/24_Y'all_Life_Walker_Hayes.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Life / Death",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/25_Life___Death_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Life\u0000Death",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/26_Life\u0000Death_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": false,
+      "path": "select/27_Life_Is_Cool_King_Gizzard_&_The_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Life Is Cool",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": false,
+      "path": "select/28_Life_Is_Cool_King_Gizzard_and_the_Lizard_Wizard.txt"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/29_Awful_Beautiful_Life_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Awful Beautiful Life (Album Version)",
+      "artist": "Darryl Worley",
+      "has_synced": true,
+      "path": "select/30_Awful_Beautiful_Life_(Album_Version)_Darryl_Worley.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/31_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Back To Life",
+      "artist": "Rascal Flatts",
+      "has_synced": true,
+      "path": "select/32_Back_To_Life_Rascal_Flatts.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "Better Life",
+      "artist": "Keith Urban",
+      "has_synced": true,
+      "path": "select/33_Better_Life_Keith_Urban.lrc"
+    },
+    {
+      "id": "lrclib_34",
+      "source": "lrclib",
+      "title": "Doing Life With Me",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/34_Doing_Life_With_Me_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_35",
+      "source": "lrclib",
+      "title": "Doing Life With Me",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/35_Doing_Life_With_Me_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_36",
+      "source": "lrclib",
+      "title": "Drivin' My Life Away",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/36_Drivin'_My_Life_Away_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "lrclib_37",
+      "source": "lrclib",
+      "title": "Drivin' My Life Away (2009 Remaster)",
+      "artist": "Eddie Rabbitt",
+      "has_synced": true,
+      "path": "select/37_Drivin'_My_Life_Away_(2009_Remaster)_Eddie_Rabbitt.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LIFE STYLE (feat. 漢 a.k.a. GAMI, D.O)",
+      "artist": "SALU",
+      "has_synced": false,
+      "path": "select/pl_01_LIFE_STYLE_(feat._漢_a.k.a._GAMI,_D.O)_SALU.txt"
+    }
+  ]
+}
